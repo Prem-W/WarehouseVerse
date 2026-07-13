@@ -211,18 +211,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here.
-
-```
-/screenshots/dashboard.png
-/screenshots/simulation.png
-/screenshots/analytics.png
-```
-
----
-
 ## 🎯 Learning Outcomes
 
 This project demonstrates knowledge of:
