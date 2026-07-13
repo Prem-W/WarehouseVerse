@@ -2,13 +2,6 @@
 
 > **A production-grade Digital Twin platform for autonomous warehouse robotics featuring real-time multi-agent simulation, evolutionary optimization, reinforcement learning, and intelligent path planning.**
 
-
-
-
-
-
-\
-
 ---
 
 ## 🚀 Overview
