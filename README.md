@@ -1,4 +1,4 @@
-# EvoTwin - Evolutionary Digital Twin
+# WarehouseVerse
 
 > A production-grade digital twin platform for autonomous warehouse robotics, featuring evolutionary optimization, Q-learning adaptation, and real-time multi-agent simulation.
 
@@ -542,12 +542,6 @@ evotwin/
 - [ ] **Neural architecture search** for strategy networks
 - [ ] **Transfer learning** across warehouse configurations
 - [ ] **Digital twin calibration** from real warehouse data
-
----
-
-## License
-
-MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
